@@ -66,6 +66,9 @@ Extracurricular activity: __Student representative at the innovation and entrepr
 `2016-2019`
 Bachelor of Science: __Information science @ University of Bergen__
 
+`2015-2016`
+Compulsory enrollment: __Private @  Artillery Battalion, Norwegian Armed Forces__
+
 
 
 ## Who am i?
@@ -73,16 +76,16 @@ Happy and sociable guy with a love for the outdoors. Avid cyclist, climber, skie
 I like to tinker with things and have no issue with trying to fix things myself, be it electronics, carpeting, mechanics, or software.
 All in all, i like to figure out how things work and i am often described as a pretty practical person.
 
-I can be described as candid, transparent, and engaged. However, this is two endged sword and i can also be blunt, uncaring, and too ambitious in my planning and scheduling. This is a balance that i continiously work to adjust and maintain, just like we all do.
+I can be described as candid, transparent, and engaged. However, this is two edged sword and i can also be blunt, uncaring, and too ambitious in my planning and scheduling. This is a balance that i continiously work to adjust and maintain, just like we all do.
 
-Irregardless of the aforementioned i strive to communicate well and precisely as this is something that i deem unquestionably important. Its cheesy, but *communication is key.*
+Irregardless of the aforementioned i strive to communicate well and precisely as this is something that i deem unquestionably important. It's cheesy, but *communication is key.*
 
-*Fun fact:* I have averaged over 70 000 minutes on Spotify for the past three years. In short, i love music!
+*Fun facts:* I have averaged over 70 000 minutes per year on Spotify for the past three years. In short, i love music!
 
 
 ## References
 
-Shared upon request
+Shared upon request.
 
 
 <!-- ### Footer
