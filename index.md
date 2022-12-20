@@ -1,87 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Herman Stoud Platou's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Herman Stoud Platou
+Software engineer with full stack experience from fintech
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hsplatou@gmail.com">Hsplatou@gmail.com</a>
+| +47 41 34 54 94
+| <a href="[hermans.place](https://github.com/hpl002)">Github</a>
+| <a href="[hermans.place](https://www.linkedin.com/in/herman-stoud-platou-62749515b/)">LinkedIn</a>
+| <a href="https://hermans.place">Personal website</a>
 </div>
 
 
-## Currently
+## Specialization
+Building scalable and maintainable systems via cloud native technologies, primarily kubernetes.
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Also like to develop new services from time to time!
 
 
-### Research interests
+## Tech & Research interests
+Interested in just about anyting in the DevOps and Platform Engineering space, but the primary interest is k8s and it's surrounding ecosystem.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Have worked hands on with technologies such as Helm, Helmfile, Azure, Terraform, and many common k8s controllers such as Sealed-secrets, Cert-manager, Nginx, Flux, ++.
 
+I have varying experience with languages such as Java, JavaScript, Typescript, Python, and Go. However i am unquestionably the most proficient in Javascript and like to live in the Node ecosystem.
 
-## Education
+## Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-current`
+__<a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company/mycompany/">Platform Engineer and Consultant @ Stacc, the fintech platform company</a>__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Transitioned into the platform infrastructure team.
+Maintaining existing customer solutions and continued growth on PaaS offerings
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2020-2022`
+__<a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company/mycompany/">Application developer and Consultant @ Stacc, the fintech platform company</a>__
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Consulting on varying projects in the fintech space.
+Developed and maintained internal services.
 
 
-## Occupation
+`2018-2020`
+__<a href="https://www.linkedin.com/company/omega365/">Application Developer @ Omega 365, global provider of project and asset management software</a>__
 
-`1600`
-__Royal Mint__, London
+Built client applications on Omega's propriatery Appframe.
+## Formal education and proficiencies
 
-- Warden
-- Minted coins
+`Ongoing: 2022-2023`
+Ongoing: __Certified Kubernetes Administrator @ Cloud Native Foundation__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022`
+Publication: __Addressing the ethical principles of the Norwegian National Strategy for AI in a kindergarten allocation system__
 
+`2019-2022`
+Master of Science: __Information science @ University of Bergen__
+
+`2019`
+Extracurricular activity: __Student representative at the innovation and entrepreneurship working group @ University of Bergen__
+
+`2016-2019`
+Bachelor of Science: __Information science @ University of Bergen__
+
+
+
+## Who am i?
+Happy and sociable guy with a love for the outdoors. Avid cyclist, climber, skier, and novice barista.
+I like to tinker with things and have no issue with trying to fix things myself, be it electronics, carpeting, mechanics, or software.
+All in all, i like to figure out how things work and i am often described as a pretty practical person.
+
+I can be described as candid, transparent, and engaged. However, this is two endged sword and i can also be blunt, uncaring, and too ambitious in my planning and scheduling. This is a balance that i continiously work to adjust and maintain, just like we all do.
+
+Irregardless of the aforementioned i strive to communicate well and precisely as this is something that i deem unquestionably important. Its cheesy, but *communication is key.*
+
+*Fun fact:* I have averaged over 70 000 minutes on Spotify for the past three years. In short, i love music!
+
+
+## References
+
+Shared upon request
 
 
 <!-- ### Footer
