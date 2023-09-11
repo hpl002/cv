@@ -9,8 +9,7 @@ Software engineer with full stack experience from fintech
 <a href="hsplatou@gmail.com">Hsplatou@gmail.com</a>
 | +47 41 34 54 94
 | <a href="[hermans.place](https://github.com/hpl002)">Github</a>
-| <a href="[hermans.place](https://www.linkedin.com/in/herman-stoud-platou-62749515b/)">LinkedIn</a>
-| <a href="https://hermans.place">Personal website</a>
+| <a href="[https://www.linkedin.com/in/hsplatou/)">LinkedIn</a>
 </div>
 
 
@@ -29,7 +28,12 @@ I have varying experience with languages such as Java, JavaScript, Typescript, P
 
 ## Experience
 
-`2022-current`
+`2023-2023`
+__<a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company/mycompany/">Backend developer @ Dintero</a>__
+
+Transitioned into a combined role, focusing on infrastructure, automation, and services.
+
+`2022-2023`
 __<a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company/mycompany/">Platform Engineer and Consultant @ Stacc, the fintech platform company</a>__
 
 Transitioned into the platform infrastructure team.
@@ -51,9 +55,6 @@ __<a href="https://www.linkedin.com/company/omega365/">Application Developer @ O
 Built client applications on Omega's propriatery Appframe.
 ## Formal education and proficiencies
 
-`Ongoing: 2022-2023`
-Ongoing: __Certified Kubernetes Administrator @ Cloud Native Foundation__
-
 `2022`
 Publication: __Addressing the ethical principles of the Norwegian National Strategy for AI in a kindergarten allocation system__
 
@@ -74,7 +75,7 @@ Compulsory enrollment: __Private @  Artillery Battalion, Norwegian Armed Forces_
 ## Who am i?
 Happy and sociable guy with a love for the outdoors. Avid cyclist, climber, skier, and novice barista.
 I like to tinker with things and have no issue with trying to fix things myself, be it electronics, carpeting, mechanics, or software.
-All in all, i like to figure out how things work and i am often described as a pretty practical person.
+All in all, i like to figure out how things work and i am often described as a fairly practical person.
 
 I can be described as candid, transparent, and engaged. However, this is two edged sword and i can also be blunt, uncaring, and too ambitious in my planning and scheduling. This is a balance that i continiously work to adjust and maintain, just like we all do.
 
